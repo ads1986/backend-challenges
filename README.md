@@ -70,7 +70,7 @@ Feel free to contribute! Only open-source challenges please!
 | :sweden: | [Volvo Cars](https://www.volvocars.com/) | Any Language | [Code →](https://github.com/volvo-cars/congestion-tax-calculator) | [![java](images/java_logo.svg)](https://github.com/ads1986/congestion-tax-calculator/tree/main/java)
 | :brazil: | [Wirecard Brasil](https://wirecard.com.br/) | Any Language, REST API | [Code →](https://github.com/wirecardBrasil/challenge/tree/master/backend)
 | :cn: | [Wiredcraft](https://wiredcraft.com) | Node.js, Any Framework, Any Database, REST API | [Code →](https://github.com/Wiredcraft/test-backend)
-| :brazil: | [Zé Delivery](https://www.ze.delivery) | Any Language, REST API or GraphQL | [Code →](https://github.com/ZXVentures/ze-code-challenges/blob/master/backend.md)
+| :brazil: | [Zé Delivery](https://www.ze.delivery) | Any Language, REST API or GraphQL | [Code →](https://github.com/ZXVentures/ze-code-challenges/blob/master/backend.md) | [![java](images/java_logo.svg)](https://github.com/ads1986/ze-code-challenges/tree/develop)
 
 ## Inspiration
 
